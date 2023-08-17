@@ -35,3 +35,10 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Types of memory
+
+// Stack (used in Primitive data types)
+// Heap ( used in Non Primitive data types)
